@@ -1,0 +1,14 @@
+body {
+    background-color: lightgray;
+}
+.cards {
+    background-color: whitesmoke;
+    padding: 10% 1%;
+    margin: 10% 1%;
+}
+.main {
+    padding: 20px 50px
+}
+p {
+    font-size: 14px;
+}
